@@ -1,6 +1,6 @@
 {
   "name": "circularbuffer",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A small circular/ring buffer implementation in TypeScript.",
   "keywords": ["buffer", "circular", "queue", "ring", "stack", "typescript"],
   "main": "lib/index.js",
