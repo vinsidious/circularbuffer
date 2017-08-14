@@ -1,0 +1,6 @@
+coverage/
+lib/
+node_modules/
+**/.DS_Store
+/.editorconfig
+/.readline_history
