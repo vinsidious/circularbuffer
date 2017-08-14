@@ -17,7 +17,7 @@ yarn add circularbuffer
 ```ts
 import CircularBuffer from 'circularbuffer';
 
-const queue = new CircularBuffer<string>(5);
+const queue = new CircularBuffer<string|number>(5);
 queue.enq('foo');
 queue.enq('bar', 'baz');
 queue.toArray(); // ['foo', 'bar', 'baz']
