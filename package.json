@@ -2,14 +2,21 @@
   "name": "circularbuffer",
   "version": "0.1.0",
   "description": "A small circular/ring buffer implementation in TypeScript.",
-  "keywords": ["buffer", "circular", "queue", "ring", "stack", "typescript"],
+  "keywords": [
+    "buffer",
+    "circular",
+    "queue",
+    "ring",
+    "stack",
+    "typescript"
+  ],
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "repository": "https://github.com/vincecoppola/circularbuffer",
   "homepage": "https://github.com/vincecoppola/circularbuffer#readme",
   "author": {
-    "name": "Vince Coppola",
     "email": "vincecoppola@gmail.com",
+    "name": "Vince Coppola",
     "url": "https://github.com/vincecoppola"
   },
   "license": "MIT",
@@ -34,5 +41,7 @@
   "engines": {
     "node": ">= 6"
   },
-  "files": ["/lib/**/*"]
+  "files": [
+    "/lib/**/*"
+  ]
 }
